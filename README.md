@@ -12,7 +12,7 @@ Windows Terminal 색상, 탭 색, Oh My Posh 프롬프트, 시작 인사말을 �
 필요한 것: Windows 10/11, [Windows Terminal](https://aka.ms/terminal) 1.22 이상, [PowerShell 7](https://aka.ms/powershell)
 
 ```powershell
-git clone https://github.com/<your-id>/pantone-pixel
+git clone https://github.com/kyuleeee/pantone-pixel
 cd pantone-pixel
 pwsh -File install.ps1
 ```
@@ -86,4 +86,5 @@ pwsh -File uninstall.ps1
 
 - 폰트: [Departure Mono](https://departuremono.com) (SIL OFL), [Nerd Fonts](https://www.nerdfonts.com) 패치 버전
 - PANTONE®은 Pantone LLC의 상표예요. 이 프로젝트는 Pantone과 관련이 없는 개인 프로젝트이고, 컬러 이름은 참고용으로만 썼어요.
+
 
