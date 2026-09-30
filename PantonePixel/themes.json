@@ -1,0 +1,478 @@
+[
+  {
+    "id": "coral-reef",
+    "name": "Coral Reef",
+    "pantone": "Living Coral 16-1546 · Classic Blue 19-4052 · Illuminating 13-0647",
+    "icon": "♥",
+    "mode": "dark",
+    "tab": "#FF6F61",
+    "scheme": {
+      "background": "#14213D",
+      "foreground": "#F0EEE9",
+      "cursorColor": "#FF6F61",
+      "selectionBackground": "#0F4C81",
+      "black": "#1E2B4A",
+      "red": "#BB2649",
+      "green": "#88B04B",
+      "yellow": "#F0C05A",
+      "blue": "#92A8D1",
+      "purple": "#B163A3",
+      "cyan": "#45B5AA",
+      "white": "#F0EEE9",
+      "brightBlack": "#939597",
+      "brightRed": "#FF6F61",
+      "brightGreen": "#C0D725",
+      "brightYellow": "#F5DF4D",
+      "brightBlue": "#9BB7D4",
+      "brightPurple": "#F7CAC9",
+      "brightCyan": "#7BC4C4",
+      "brightWhite": "#FFFFFF"
+    },
+    "prompt": {
+      "icon": [
+        "#FF6F61",
+        "#14213D"
+      ],
+      "path": [
+        "#F5DF4D",
+        "#14213D"
+      ],
+      "git": [
+        "#88B04B",
+        "#14213D"
+      ],
+      "dirty": [
+        "#FFBE98",
+        "#14213D"
+      ],
+      "lang": [
+        "#92A8D1",
+        "#14213D"
+      ],
+      "time": [
+        "#0F4C81",
+        "#F0EEE9"
+      ],
+      "char": "#FF6F61",
+      "error": "#BB2649",
+      "muted": "#939597"
+    },
+    "character": "cat",
+    "roles": {
+      "a": "#FF6F61",
+      "b": "#0F4C81",
+      "c": "#F5DF4D",
+      "w": "#F0EEE9",
+      "k": "#0B1426",
+      "g": "#939597"
+    }
+  },
+  {
+    "id": "very-peri",
+    "name": "Very Peri Night",
+    "pantone": "Very Peri 17-3938 · Ultra Violet 18-3838 · Rose Quartz 13-1520",
+    "icon": "✦",
+    "mode": "dark",
+    "tab": "#6667AB",
+    "scheme": {
+      "background": "#1B1934",
+      "foreground": "#F0EEE9",
+      "cursorColor": "#F7CAC9",
+      "selectionBackground": "#5F4B8B",
+      "black": "#2A2750",
+      "red": "#D94F70",
+      "green": "#88B04B",
+      "yellow": "#F0C05A",
+      "blue": "#92A8D1",
+      "purple": "#B163A3",
+      "cyan": "#7BC4C4",
+      "white": "#F0EEE9",
+      "brightBlack": "#939597",
+      "brightRed": "#FF6F61",
+      "brightGreen": "#C0D725",
+      "brightYellow": "#F5DF4D",
+      "brightBlue": "#9BB7D4",
+      "brightPurple": "#F7CAC9",
+      "brightCyan": "#7BC4C4",
+      "brightWhite": "#FFFFFF"
+    },
+    "prompt": {
+      "icon": [
+        "#6667AB",
+        "#F0EEE9"
+      ],
+      "path": [
+        "#F7CAC9",
+        "#1B1934"
+      ],
+      "git": [
+        "#92A8D1",
+        "#1B1934"
+      ],
+      "dirty": [
+        "#F5DF4D",
+        "#1B1934"
+      ],
+      "lang": [
+        "#B163A3",
+        "#F0EEE9"
+      ],
+      "time": [
+        "#5F4B8B",
+        "#F0EEE9"
+      ],
+      "char": "#F7CAC9",
+      "error": "#D94F70",
+      "muted": "#939597"
+    },
+    "character": "ghost",
+    "roles": {
+      "a": "#6667AB",
+      "b": "#5F4B8B",
+      "c": "#F7CAC9",
+      "w": "#F0EEE9",
+      "k": "#14122A",
+      "g": "#939597"
+    }
+  },
+  {
+    "id": "viva-magenta",
+    "name": "Viva Magenta",
+    "pantone": "Viva Magenta 18-1750 · Marsala 18-1438 · Honeysuckle 18-2120",
+    "icon": "♦",
+    "mode": "dark",
+    "tab": "#BB2649",
+    "scheme": {
+      "background": "#22111A",
+      "foreground": "#F0EEE9",
+      "cursorColor": "#D94F70",
+      "selectionBackground": "#955251",
+      "black": "#3A1C2A",
+      "red": "#D94F70",
+      "green": "#88B04B",
+      "yellow": "#F0C05A",
+      "blue": "#92A8D1",
+      "purple": "#C74375",
+      "cyan": "#7BC4C4",
+      "white": "#F0EEE9",
+      "brightBlack": "#939597",
+      "brightRed": "#FF6F61",
+      "brightGreen": "#C0D725",
+      "brightYellow": "#F5DF4D",
+      "brightBlue": "#9BB7D4",
+      "brightPurple": "#F7CAC9",
+      "brightCyan": "#7BC4C4",
+      "brightWhite": "#FFFFFF"
+    },
+    "prompt": {
+      "icon": [
+        "#BB2649",
+        "#F0EEE9"
+      ],
+      "path": [
+        "#F7CAC9",
+        "#22111A"
+      ],
+      "git": [
+        "#FFBE98",
+        "#22111A"
+      ],
+      "dirty": [
+        "#D94F70",
+        "#F0EEE9"
+      ],
+      "lang": [
+        "#955251",
+        "#F0EEE9"
+      ],
+      "time": [
+        "#C74375",
+        "#F0EEE9"
+      ],
+      "char": "#D94F70",
+      "error": "#DD4124",
+      "muted": "#939597"
+    },
+    "character": "heart",
+    "roles": {
+      "a": "#BB2649",
+      "b": "#955251",
+      "c": "#F7CAC9",
+      "w": "#F0EEE9",
+      "k": "#160A10",
+      "g": "#939597"
+    }
+  },
+  {
+    "id": "mocha-mousse",
+    "name": "Mocha Mousse",
+    "pantone": "Mocha Mousse 17-1230 · Peach Fuzz 13-1023 · Sand Dollar 13-1106",
+    "icon": "☕",
+    "mode": "dark",
+    "tab": "#A47864",
+    "scheme": {
+      "background": "#2A201B",
+      "foreground": "#DECDBE",
+      "cursorColor": "#FFBE98",
+      "selectionBackground": "#A47864",
+      "black": "#3D2F28",
+      "red": "#BB2649",
+      "green": "#88B04B",
+      "yellow": "#F0C05A",
+      "blue": "#92A8D1",
+      "purple": "#B163A3",
+      "cyan": "#45B5AA",
+      "white": "#DECDBE",
+      "brightBlack": "#939597",
+      "brightRed": "#FF6F61",
+      "brightGreen": "#C0D725",
+      "brightYellow": "#FFBE98",
+      "brightBlue": "#9BB7D4",
+      "brightPurple": "#F7CAC9",
+      "brightCyan": "#7BC4C4",
+      "brightWhite": "#F0EEE9"
+    },
+    "prompt": {
+      "icon": [
+        "#A47864",
+        "#F0EEE9"
+      ],
+      "path": [
+        "#DECDBE",
+        "#2A201B"
+      ],
+      "git": [
+        "#88B04B",
+        "#2A201B"
+      ],
+      "dirty": [
+        "#FFBE98",
+        "#2A201B"
+      ],
+      "lang": [
+        "#955251",
+        "#F0EEE9"
+      ],
+      "time": [
+        "#939597",
+        "#2A201B"
+      ],
+      "char": "#FFBE98",
+      "error": "#BB2649",
+      "muted": "#939597"
+    },
+    "character": "coffee",
+    "roles": {
+      "a": "#A47864",
+      "b": "#955251",
+      "c": "#FFBE98",
+      "w": "#F0EEE9",
+      "k": "#1E1612",
+      "g": "#DECDBE"
+    }
+  },
+  {
+    "id": "greenery",
+    "name": "Greenery",
+    "pantone": "Greenery 15-0343 · Emerald 17-5641 · Mimosa 14-0848",
+    "icon": "✿",
+    "mode": "dark",
+    "tab": "#88B04B",
+    "scheme": {
+      "background": "#15231B",
+      "foreground": "#F0EEE9",
+      "cursorColor": "#88B04B",
+      "selectionBackground": "#009473",
+      "black": "#22352A",
+      "red": "#DD4124",
+      "green": "#88B04B",
+      "yellow": "#F0C05A",
+      "blue": "#92A8D1",
+      "purple": "#B163A3",
+      "cyan": "#45B5AA",
+      "white": "#F0EEE9",
+      "brightBlack": "#939597",
+      "brightRed": "#FF6F61",
+      "brightGreen": "#C0D725",
+      "brightYellow": "#F5DF4D",
+      "brightBlue": "#9BB7D4",
+      "brightPurple": "#F7CAC9",
+      "brightCyan": "#7BC4C4",
+      "brightWhite": "#FFFFFF"
+    },
+    "prompt": {
+      "icon": [
+        "#88B04B",
+        "#15231B"
+      ],
+      "path": [
+        "#F0C05A",
+        "#15231B"
+      ],
+      "git": [
+        "#45B5AA",
+        "#15231B"
+      ],
+      "dirty": [
+        "#FFBE98",
+        "#15231B"
+      ],
+      "lang": [
+        "#009473",
+        "#F0EEE9"
+      ],
+      "time": [
+        "#7BC4C4",
+        "#15231B"
+      ],
+      "char": "#88B04B",
+      "error": "#DD4124",
+      "muted": "#939597"
+    },
+    "character": "sprout",
+    "roles": {
+      "a": "#88B04B",
+      "b": "#009473",
+      "c": "#F0C05A",
+      "w": "#F0EEE9",
+      "k": "#0E1812",
+      "g": "#939597"
+    }
+  },
+  {
+    "id": "illuminating",
+    "name": "Illuminating",
+    "pantone": "Illuminating 13-0647 · Ultimate Gray 17-5104 · Blue Iris 18-3943",
+    "icon": "☀",
+    "mode": "dark",
+    "tab": "#F5DF4D",
+    "scheme": {
+      "background": "#232427",
+      "foreground": "#F0EEE9",
+      "cursorColor": "#F5DF4D",
+      "selectionBackground": "#5A5B9F",
+      "black": "#36373B",
+      "red": "#DD4124",
+      "green": "#88B04B",
+      "yellow": "#F0C05A",
+      "blue": "#92A8D1",
+      "purple": "#B163A3",
+      "cyan": "#45B5AA",
+      "white": "#F0EEE9",
+      "brightBlack": "#939597",
+      "brightRed": "#FF6F61",
+      "brightGreen": "#C0D725",
+      "brightYellow": "#F5DF4D",
+      "brightBlue": "#9BB7D4",
+      "brightPurple": "#F7CAC9",
+      "brightCyan": "#7BC4C4",
+      "brightWhite": "#FFFFFF"
+    },
+    "prompt": {
+      "icon": [
+        "#F5DF4D",
+        "#232427"
+      ],
+      "path": [
+        "#939597",
+        "#232427"
+      ],
+      "git": [
+        "#F0EEE9",
+        "#232427"
+      ],
+      "dirty": [
+        "#F0C05A",
+        "#232427"
+      ],
+      "lang": [
+        "#9BB7D4",
+        "#232427"
+      ],
+      "time": [
+        "#5A5B9F",
+        "#F0EEE9"
+      ],
+      "char": "#F5DF4D",
+      "error": "#DD4124",
+      "muted": "#939597"
+    },
+    "character": "bulb",
+    "roles": {
+      "a": "#F5DF4D",
+      "b": "#5A5B9F",
+      "c": "#F0C05A",
+      "w": "#F0EEE9",
+      "k": "#18191B",
+      "g": "#939597"
+    }
+  },
+  {
+    "id": "peach-fuzz",
+    "name": "Peach Fuzz (light)",
+    "pantone": "Peach Fuzz 13-1023 · Cloud Dancer 11-4201 · Mocha Mousse 17-1230",
+    "icon": "❀",
+    "mode": "light",
+    "tab": "#FFBE98",
+    "scheme": {
+      "background": "#F0EEE9",
+      "foreground": "#3E2C25",
+      "cursorColor": "#FF6F61",
+      "selectionBackground": "#FFBE98",
+      "black": "#3E2C25",
+      "red": "#BB2649",
+      "green": "#009473",
+      "yellow": "#A47864",
+      "blue": "#0F4C81",
+      "purple": "#5F4B8B",
+      "cyan": "#53B0AE",
+      "white": "#DECDBE",
+      "brightBlack": "#939597",
+      "brightRed": "#FF6F61",
+      "brightGreen": "#88B04B",
+      "brightYellow": "#F0C05A",
+      "brightBlue": "#5A5B9F",
+      "brightPurple": "#B163A3",
+      "brightCyan": "#45B5AA",
+      "brightWhite": "#FFFFFF"
+    },
+    "prompt": {
+      "icon": [
+        "#FF6F61",
+        "#3E2C25"
+      ],
+      "path": [
+        "#FFBE98",
+        "#3E2C25"
+      ],
+      "git": [
+        "#88B04B",
+        "#3E2C25"
+      ],
+      "dirty": [
+        "#F0C05A",
+        "#3E2C25"
+      ],
+      "lang": [
+        "#92A8D1",
+        "#3E2C25"
+      ],
+      "time": [
+        "#A47864",
+        "#F0EEE9"
+      ],
+      "char": "#FF6F61",
+      "error": "#BB2649",
+      "muted": "#939597"
+    },
+    "character": "peach",
+    "roles": {
+      "a": "#FFBE98",
+      "b": "#A47864",
+      "c": "#FF6F61",
+      "w": "#FFFFFF",
+      "k": "#3E2C25",
+      "g": "#939597"
+    }
+  }
+]

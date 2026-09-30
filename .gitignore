@@ -1,0 +1,3 @@
+# 사용자별 상태 파일은 ~/.pantone-pixel 에 저장돼요
+*.log
+Thumbs.db

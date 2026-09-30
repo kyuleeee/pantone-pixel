@@ -1,0 +1,153 @@
+{
+  "_roles": "a=메인 b=보조 c=포인트 w=밝음 k=어둠 g=중간톤 .=투명 (테마의 팬톤 색이 입혀져요)",
+  "cat": {
+    "name": "고양이",
+    "rows": [
+      "..k..........k..",
+      ".kak........kak.",
+      ".kaakkkkkkkkaak.",
+      ".kaaaaaaaaaaaak.",
+      "kaawkaaaaaakwaak",
+      "kaakkaaaaaakkaak",
+      "kcaaaaabbaaaaack",
+      ".kaaaaaaaaaaak..",
+      "..kkaaaaaaaakk..",
+      "....kkkkkkkk...."
+    ]
+  },
+  "ghost": {
+    "name": "유령",
+    "rows": [
+      ".....wwwwww.....",
+      "...wwwwwwwwww...",
+      "..wwwwwwwwwwww..",
+      "..wwkkwwwwkkww..",
+      "..wwkkwwwwkkww..",
+      "..wcwwwwwwwwcw..",
+      "..wwwwwaawwwww..",
+      "..wwwwwwwwwwww..",
+      "..wwwwwwwwwwww..",
+      "..ww.ww..ww.ww.."
+    ]
+  },
+  "dino": {
+    "name": "공룡",
+    "rows": [
+      "........aaaa....",
+      "........akaaa...",
+      "........aaaaa...",
+      "........aaa.....",
+      "...a...aaaaa....",
+      "...aa.aaaaa.....",
+      "...aaaawwaa.....",
+      "....aaaaaa......",
+      ".....a...a......",
+      "....aa...aa....."
+    ]
+  },
+  "bunny": {
+    "name": "토끼",
+    "rows": [
+      "....ww....ww....",
+      "....wc....cw....",
+      "....wc....cw....",
+      "...wwwwwwwwww...",
+      "..wwwwwwwwwwww..",
+      "..wwkwwwwwwkww..",
+      "..wcwwwbbwwwcw..",
+      "..wwwwwwwwwwww..",
+      "...wwwwwwwwww...",
+      "....ww....ww...."
+    ]
+  },
+  "mushroom": {
+    "name": "버섯",
+    "rows": [
+      ".....aaaaaa.....",
+      "...aawwaaaaaa...",
+      "..aawwwaaawwaa..",
+      ".aaaaaaaaawwwaa.",
+      ".aawwaaaaaaaaaa.",
+      ".aaaaaaaaaaaaaa.",
+      "....wwwwwwww....",
+      "....wkwwwwkw....",
+      "....wcwwwwcw....",
+      ".....wwwwww....."
+    ]
+  },
+  "heart": {
+    "name": "하트",
+    "rows": [
+      "...aaa....aaa...",
+      "..aawaa..aaaaa..",
+      ".aawwaaaaaaaaaa.",
+      ".aawaaaaaaaaaaa.",
+      ".aaaaaaaaaaaaba.",
+      "..aaaaaaaaaaba..",
+      "...aaaaaaaaba...",
+      "....aaaaaaba....",
+      ".....aaaaba.....",
+      "......abba......"
+    ]
+  },
+  "coffee": {
+    "name": "커피",
+    "rows": [
+      "....g...g...g...",
+      "...g...g...g....",
+      ".wbbbbbbbbbbw...",
+      ".wwwwwwwwwwwwww.",
+      ".wwwwwwwwwwww.w.",
+      ".wwwcwwwwwwww.w.",
+      ".wwwwwwwwwwwww..",
+      "..wwwwwwwwww....",
+      "aaaaaaaaaaaaaa..",
+      ".aaaaaaaaaaaa..."
+    ]
+  },
+  "sprout": {
+    "name": "새싹",
+    "rows": [
+      "...aaa.....aaa..",
+      "..aaaaa...aaaaa.",
+      "...aaaabbaaaa...",
+      ".......bb.......",
+      ".......bb.......",
+      "...cccccccccc...",
+      "....cwcccccc....",
+      "....cccccccc....",
+      ".....cccccc.....",
+      ".....cccccc....."
+    ]
+  },
+  "bulb": {
+    "name": "전구",
+    "rows": [
+      ".....aaaaaa.....",
+      "....aawaaaaa....",
+      "...aawaaaaaaa...",
+      "...aaaaaaaaaa...",
+      "...aaaaaaaaaa...",
+      "....aaaaaaaa....",
+      ".....aaaaaa.....",
+      ".....gggggg.....",
+      ".....wwwwww.....",
+      "......gggg......"
+    ]
+  },
+  "peach": {
+    "name": "복숭아",
+    "rows": [
+      ".......b.bb.....",
+      ".......bbbb.....",
+      "....aaabaaaa....",
+      "...aaaacaaaaa...",
+      "..awaaaacaaaaa..",
+      "..wwaaaacaaaaa..",
+      "..aaaaaaacaaaa..",
+      "...aaaaaaaaaa...",
+      "....aaaaaaaa....",
+      "......aaaa......"
+    ]
+  }
+}
